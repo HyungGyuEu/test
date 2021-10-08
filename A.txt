@@ -1,1 +1,3 @@
-this file is A
+print("CCCCCCCCCCCCCCCC")
+print("AAA")
+print("BBBBBBBBBBBBBB")
